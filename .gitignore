@@ -1,0 +1,12 @@
+# Bỏ qua file SSH keys
+*.pem
+*.pub
+id_rsa
+id_ed25519
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua file hệ thống
+.DS_Store
+Thumbs.db
